@@ -1,4 +1,4 @@
-![Preview](https://raw.githubusercontent.com/abeloha/ACENTDFB/blob/master/preview.png)
+![Preview](https://github.com/abeloha/ACENTDFB/blob/master/preview.png)
 
 ### abeloha:ACENTDFB Website develeloped using Laravel.
 

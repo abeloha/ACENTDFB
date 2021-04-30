@@ -55,7 +55,7 @@ function committee(){
                             <a href="{{asset('doc/AC/AUDIT_COMMITTEE_Minutes.pdf')}}" class="post-meta">Download</a>
                         </div>
                     </div>
-                </div><!-- Post 1 -->
+                </div>
                 <div class="col-md-4 padding-15">
                     <div class="blog-post">
                         <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -63,7 +63,7 @@ function committee(){
                             <a href="{{asset('doc/AC/AUDIT_COMMITTEE_Appointments_ACE_NTDFB_FILE.pdf')}}" class="post-meta">Download</a>
                         </div>
                     </div>
-                </div><!-- Post 1 -->
+                </div>
                 <div class="col-md-4 padding-15">
                     <div class="blog-post">
                         <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -71,7 +71,7 @@ function committee(){
                             <a href="{{asset('doc/AC/ACENTDFB_Audit_Committee_Report_2016.pdf')}}" class="post-meta">Download</a>
                         </div>
                     </div>
-                </div><!-- Post 1 -->
+                </div>
                 <div class="col-md-4 padding-15">
                     <div class="blog-post">
                         <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -79,7 +79,7 @@ function committee(){
                             <a href="{{asset('doc/AC/ACENTDFB_Audit_Committee_Report_2017.pdf')}}" class="post-meta">Download</a>
                         </div>
                     </div>
-                </div><!-- Post 1 -->
+                </div>
                 <div class="col-md-4 padding-15">
                     <div class="blog-post">
                         <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -87,7 +87,7 @@ function committee(){
                             <a href="{{asset('doc/AC/ACENTDFB_Audit_Committee_Report_2018.pdf')}}" class="post-meta">Download</a>
                         </div>
                     </div>
-                </div><!-- Post 1 -->
+                </div>
             </div>
         </div><!-- Blog Posts -->
     </div>
@@ -103,24 +103,46 @@ function accounts(){
         <div class="row">
             <div class="col-lg-12 xs-padding">
                 <div class="blog-items grid-list row">
+
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
-                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>ACENTDFB ABU 2014 AUDITED ACCOUNT</a></h3>
-                                <a href="{{asset('doc/AA/ACENTDFB_ABU_2014_AUDITED_ACCOUNT.pdf')}}" class="post-meta">Download</a>
+                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACE NTDFB ABU 2020 AUDITED ACCOUNT REPORT</a></h3>
+                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2020_AUDITED_ACCOUNT_REPORT.pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACE NTDFB ABU 2019 AUDITED ACCOUNT REPORT</a></h3>
+                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2019_AUDITED_ACCOUNT_REPORT.pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACE NTDFB ABU 2018 AUDITED ACCOUNT REPORT</a></h3>
+                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2018_AUDITED_ACCOUNT_REPORT.pdf')}}" class="post-meta">Download</a>
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
+                    
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
                             <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                               <h3><a>ACENTDFB ABU 2015 AUDITED ACCOUNT</a></h3>
-                                <a href="{{asset('doc/AA/ACENTDFB_ABU_2015_AUDITED_ACCOUNT.pdf')}}" class="post-meta">Download</a>
+                                                    <h3><a>ACE NTDFB ABU 2017 AUDITED ACCOUNT REPORT  </a></h3>
+                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2017_AUDITED_ACCOUNT_REPORT_1.pdf')}}" class="post-meta">Download</a>
 
-                            </div>
+                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
+
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
                             <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -129,23 +151,22 @@ function accounts(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
-                    
-                    <div class="col-md-4 padding-15">
-                        <div class="blog-post">
-                    <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                                    <h3><a>ACE NTDFB ABU 2017 AUDITED ACCOUNT REPORT  </a></h3>
-                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2017_AUDITED_ACCOUNT_REPORT_1.pdf')}}" class="post-meta">Download</a>
+                    </div>
 
-                             </div>
-                        </div>
-                    </div><!-- Post 1 -->
-                    
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
-                    <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>ACE NTDFB ABU 2018 AUDITED ACCOUNT REPORT</a></h3>
-                                <a href="{{asset('doc/AA/ACE_NTDFB_ABU_2018_AUDITED_ACCOUNT_REPORT.pdf')}}" class="post-meta">Download</a>
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                               <h3><a>ACENTDFB ABU 2015 AUDITED ACCOUNT</a></h3>
+                                <a href="{{asset('doc/AA/ACENTDFB_ABU_2015_AUDITED_ACCOUNT.pdf')}}" class="post-meta">Download</a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACENTDFB ABU 2014 AUDITED ACCOUNT</a></h3>
+                                <a href="{{asset('doc/AA/ACENTDFB_ABU_2014_AUDITED_ACCOUNT.pdf')}}" class="post-meta">Download</a>
 
                             </div>
                         </div>
@@ -166,42 +187,70 @@ function financial(){
         <div class="row">
             <div class="col-lg-12 xs-padding">
                 <div class="blog-items grid-list row">
+
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
                             <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>INTERIM FINANCIAL REPORT (IFR) 2015</a></h3>
-                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_(IFR)_2015.pdf')}}" class="post-meta">Download</a>
-
-                            </div>
+                                <h3><a>ANNEX TO IFR JAN TO JULY 2020</a></h3>
+                                <a href="{{asset('doc/IFR/ANNEX_INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JULY_2020.xls')}}" class="post-meta">Download</a>
+                                </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
+
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
                             <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>INTERIM FINANCIAL REPORT IFR JANUARY TO JUNE 2016(1)</a></h3>
-                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JANUARY_TO_JUNE_2016(1).xls')}}" class="post-meta">Download</a>
-
-                            </div>
+                                <h3><a>INTERIM FINANCIAL REPORT IFR JAN TO JULY 2020</a></h3>
+                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JULY_2020.xls')}}" class="post-meta">Download</a>
+                                </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
+                       
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>INTERIM FINANCIAL REPORT IFR JULY TO DECEMBER 2019</a></h3>
+                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JULY_TO_DECEMBER_2019.xls')}}" class="post-meta">Download</a>
+                                </div>
+                        </div>
+                    </div>
 
                     <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                    <h3><a>INTERIM FINANCIAL REPORT IFR JAN TO JUNE 2017</a></h3>
-                                    <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2017.xls')}}" class="post-meta">Download</a>
+                                    <h3><a>ANNEX TO IFR</a></h3>
+                                    <a href="{{asset('doc/IFR/ANNEX_INTERIM_FINANCIAL_REPORT.xlsx')}}" class="post-meta">Download</a>
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>ANNEX TO IFR JAN TO JUNE 2018</a></h3>
+                                    <a href="{{asset('doc/IFR/ANNEX_INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2019.xls')}}" class="post-meta">Download</a>
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>INTERIM FINANCIAL REPORT IFR JAN TO JUNE 2019</a></h3>
+                                    <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2019.xls')}}" class="post-meta">Download</a>
     
                                 </div>
                             </div>
-                        </div><!-- Post 1 -->
-                        <div class="col-md-4 padding-15">
-                                <div class="blog-post">
-                                    <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                        <h3><a>INTERIM FINANCIAL REPORT IFR JULY TO DEC 2017</a></h3>
-                                        <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JUL_TO_DEC_2017.xls')}}" class="post-meta">Download</a>
-                                     </div>
-                                </div>
-                            </div><!-- Post 1 -->
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>INTERIM FINANCIAL REPORT IFR JULY TO DEC 2018</a></h3>
+                                    <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JUL_TO_DEC_2018.xls')}}" class="post-meta">Download</a>
+                                    </div>
+                            </div>
+                    </div>
 
                     <div class="col-md-4 padding-15">
                             <div class="blog-post">
@@ -211,42 +260,47 @@ function financial(){
     
                                 </div>
                             </div>
-                        </div><!-- Post 1 -->
-                        <div class="col-md-4 padding-15">
-                                <div class="blog-post">
-                                    <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                        <h3><a>INTERIM FINANCIAL REPORT IFR JULY TO DEC 2018</a></h3>
-                                        <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JUL_TO_DEC_2018.xls')}}" class="post-meta">Download</a>
-                                     </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>INTERIM FINANCIAL REPORT IFR JULY TO DEC 2017</a></h3>
+                                    <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JUL_TO_DEC_2017.xls')}}" class="post-meta">Download</a>
+                                    </div>
+                            </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>INTERIM FINANCIAL REPORT IFR JAN TO JUNE 2017</a></h3>
+                                    <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2017.xls')}}" class="post-meta">Download</a>
+    
                                 </div>
-                            </div><!-- Post 1 -->
+                            </div>
+                    </div>
 
-                            <div class="col-md-4 padding-15">
-                                    <div class="blog-post">
-                                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                            <h3><a>INTERIM FINANCIAL REPORT IFR JAN TO JUNE 2019</a></h3>
-                                            <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2019.xls')}}" class="post-meta">Download</a>
-            
-                                        </div>
-                                    </div>
-                                </div><!-- Post 1 -->
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>INTERIM FINANCIAL REPORT IFR JANUARY TO JUNE 2016(1)</a></h3>
+                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_IFR_JANUARY_TO_JUNE_2016(1).xls')}}" class="post-meta">Download</a>
 
-                            <div class="col-md-4 padding-15">
-                                    <div class="blog-post">
-                                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                            <h3><a>ANNEX TO IFR JAN TO JUNE 2018</a></h3>
-                                            <a href="{{asset('doc/IFR/ANNEX_INTERIM_FINANCIAL_REPORT_IFR_JAN_TO_JUNE_2019.xls')}}" class="post-meta">Download</a>
-                                         </div>
-                                    </div>
-                                </div><!-- Post 1 -->
-                                <div class="col-md-4 padding-15">
-                                        <div class="blog-post">
-                                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                                <h3><a>ANNEX TO IFR</a></h3>
-                                                <a href="{{asset('doc/IFR/ANNEX_INTERIM_FINANCIAL_REPORT.xlsx')}}" class="post-meta">Download</a>
-                                             </div>
-                                        </div>
-                                    </div><!-- Post 1 -->
+                            </div>
+                        </div>
+                    </div> 
+
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>INTERIM FINANCIAL REPORT (IFR) 2015</a></h3>
+                                <a href="{{asset('doc/IFR/INTERIM_FINANCIAL_REPORT_(IFR)_2015.pdf')}}" class="post-meta">Download</a>
+
+                            </div>
+                        </div>
+                    </div>  
+
                 </div>
             </div><!-- Blog Posts -->
         </div>
@@ -261,7 +315,43 @@ function audit(){
         </div><!-- /Section Heading -->
         <div class="row">
             <div class="col-lg-12 xs-padding">
-                <div class="blog-items grid-list row">
+                <div class="blog-items grid-list row">                    
+
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACENTDFB Internal Audit Report 2018 (Jul-Dec)</a></h3>
+                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2018_(Jul-Dec).pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACENTDFB Internal Audit Report 2018 (Jan-Jun)</a></h3>
+                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2018_(Jan-Jun).pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACENTDFB Internal Audit Report 2017 (Jul-Dec)</a></h3>
+                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2017_(Jul-Dec).pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 padding-15">
+                        <div class="blog-post">
+                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                <h3><a>ACENTDFB Internal Audit Report 2017 (Jan-June)</a></h3>
+                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2017_(Jan-June).pdf')}}" class="post-meta">Download</a>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -271,43 +361,7 @@ function audit(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
-
-                    <div class="col-md-4 padding-15">
-                        <div class="blog-post">
-                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>ACENTDFB Internal Audit Report 2017 (Jan-June)</a></h3>
-                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2017_(Jan-June).pdf')}}" class="post-meta">Download</a>
-                            </div>
-                        </div>
-                    </div><!-- Post 1 -->
-
-                    <div class="col-md-4 padding-15">
-                            <div class="blog-post">
-                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                    <h3><a>ACENTDFB Internal Audit Report 2017 (Jul-Dec)</a></h3>
-                                    <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2017_(Jul-Dec).pdf')}}" class="post-meta">Download</a>
-                                </div>
-                            </div>
-                        </div><!-- Post 1 -->
-
-                    <div class="col-md-4 padding-15">
-                        <div class="blog-post">
-                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>ACENTDFB Internal Audit Report 2018 (Jan-Jun)</a></h3>
-                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2018_(Jan-Jun).pdf')}}" class="post-meta">Download</a>
-                            </div>
-                        </div>
-                    </div><!-- Post 1 -->
-
-                    <div class="col-md-4 padding-15">
-                        <div class="blog-post">
-                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                <h3><a>ACENTDFB Internal Audit Report 2018 (Jul-Dec)</a></h3>
-                                <a href="{{asset('doc/IAR/ACENTDFB_Internal_Audit_Report_2018_(Jul-Dec).pdf')}}" class="post-meta">Download</a>
-                            </div>
-                        </div>
-                    </div><!-- Post 1 -->
+                    </div>
 
 
                 </div>
@@ -334,7 +388,7 @@ function financialplan(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -344,7 +398,7 @@ function financialplan(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -354,7 +408,7 @@ function financialplan(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -364,7 +418,7 @@ function financialplan(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 
 
                 </div>
@@ -390,7 +444,7 @@ function others(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 
                     <div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -400,7 +454,7 @@ function others(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -410,7 +464,7 @@ function others(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -420,7 +474,7 @@ function others(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 					<div class="col-md-4 padding-15">
                         <div class="blog-post">
@@ -430,7 +484,7 @@ function others(){
 
                             </div>
                         </div>
-                    </div><!-- Post 1 -->
+                    </div>
 					
 
                 </div>

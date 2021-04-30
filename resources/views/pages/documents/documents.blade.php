@@ -18,37 +18,7 @@
         <section class="blog-section bg-grey bd-bottom padding">
 			<div class="container">
             
-				<div class="section-heading text-center mb-40">
-					<h2>Latest Files</h2>
-					<span class="heading-border"></span>
-				</div><!-- /Section Heading -->
-				<div class="row">
-					<div class="col-lg-12 xs-padding">
-						<div class="blog-items grid-list row">
-							
-							<div class="col-md-4 padding-15">
-								<div class="blog-post">
-									<div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-										<h3><a>Revised Final 2020 Implementation Plan</a></h3>
-										<a href="{{asset('doc/Revised_Final_2020_Implementation_Plan.pdf')}}" class="post-meta">Download</a>
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4 padding-15">
-								<div class="blog-post">
-									<a href="{{url('/documents/others')}}" >
-									<div class="blog-content">
-										<img src="{{asset('img/folder_icon.png')}}" style="height: 100px; width:100px;"/>
-										<h3>For Students</h3>
-									</div>
-									</a>
-								</div>
-							</div><!-- Post 1 -->
-							
-						</div>
-					</div><!-- Blog Posts -->
-				</div>
+				
 				
 				<div class="section-heading text-center mb-40">
 					<h2>Document Folders</h2>

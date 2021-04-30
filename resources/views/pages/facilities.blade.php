@@ -37,6 +37,16 @@
 			
 			<div class="container" id="lw">
                 <div class="gallery-items row">
+
+                    <div class="col-lg-4 col-sm-6 single-item lw">
+                        <div class="gallery-wrap">
+                            <a class="img-popup" data-gall="galleryimg" href="{{asset('img/facilities/workshop/'.$i.'.jpg')}}">
+                                <img src="{{asset('img/facilities/workshop/'.$i.'.jpg')}}" alt="collaboration">
+                            </a>
+                        </div>
+                        <p class="text-center"><b>Workshop</b></p>
+                    </div><!-- /Item -->
+                    
                     @for ($i = 1; $i < 16; $i++)
                         <div class="col-lg-4 col-sm-6 single-item lw">
                             <div class="gallery-wrap">

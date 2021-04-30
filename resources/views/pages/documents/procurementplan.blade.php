@@ -27,14 +27,43 @@
             <div class="row">
                 <div class="col-lg-12 xs-padding">
                     <div class="blog-items grid-list row">
-                            <div class="col-md-4 padding-15">
-                                    <div class="blog-post">
-                                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                            <h3><a>Procurement Procedure Manual</a></h3>
-                                            <a href="{{asset('doc/procurement/Procurement_Procedure_Manual.pdf')}}" class="post-meta">Download</a>
-                                        </div>
-                                    </div>
-                                </div><!-- Post 1 -->
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>ACENTDFB 2021 Procurement Plan</a></h3>
+                                    <a href="{{asset('doc/procurement/ACENTDFB_2021_Procurement_Plan.xls')}}" class="post-meta">Download</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>ACENTDFB 2019 Procurement Plan</a></h3>
+                                    <a href="{{asset('doc/procurement/ACENTDFB_2019_Procurement_Plan.xls')}}" class="post-meta">Download</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>ACENTDFB 2018 Procurement Plan</a></h3>
+                                    <a href="{{asset('doc/procurement/ACENTDFB_2018_Procurement_Plan.xls')}}" class="post-meta">Download</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 padding-15">
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>ACENTDFB 2017 Procurement Plan</a></h3>
+                                    <a href="{{asset('doc/procurement/ACENTDFB_2017_Procurement_Plan.xls')}}" class="post-meta">Download</a>
+                                </div>
+                            </div>
+                        </div>
+                        
                         <div class="col-md-4 padding-15">
                             <div class="blog-post">
                                 <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
@@ -42,32 +71,16 @@
                                     <a href="{{asset('doc/procurement/ACENTDFB_2016_Procurement_Plan.xls')}}" class="post-meta">Download</a>
                                 </div>
                             </div>
-                        </div><!-- Post 1 -->
+                        </div>
 
                         <div class="col-md-4 padding-15">
-                                <div class="blog-post">
-                                    <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                        <h3><a>ACENTDFB 2017 Procurement Plan</a></h3>
-                                        <a href="{{asset('doc/procurement/ACENTDFB_2017_Procurement_Plan.xls')}}" class="post-meta">Download</a>
-                                    </div>
+                            <div class="blog-post">
+                                <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
+                                    <h3><a>Procurement Procedure Manual</a></h3>
+                                    <a href="{{asset('doc/procurement/Procurement_Procedure_Manual.pdf')}}" class="post-meta">Download</a>
                                 </div>
-                            </div><!-- Post 1 -->
-                            <div class="col-md-4 padding-15">
-                                    <div class="blog-post">
-                                        <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                            <h3><a>ACENTDFB 2018 Procurement Plan</a></h3>
-                                            <a href="{{asset('doc/procurement/ACENTDFB_2018_Procurement_Plan.xls')}}" class="post-meta">Download</a>
-                                        </div>
-                                    </div>
-                                </div><!-- Post 1 -->
-                                <div class="col-md-4 padding-15">
-                                        <div class="blog-post">
-                                            <div class="blog-content"><img src="{{asset('img/file_icon.png')}}" style="height: 100px; width:100px;"/>
-                                                <h3><a>ACENTDFB 2019 Procurement Plan</a></h3>
-                                                <a href="{{asset('doc/procurement/ACENTDFB_2019_Procurement_Plan.xls')}}" class="post-meta">Download</a>
-                                            </div>
-                                        </div>
-                                    </div><!-- Post 1 -->
+                            </div>
+                        </div>
 
                     </div>
                 </div><!-- Blog Posts -->
